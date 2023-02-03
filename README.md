@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf80216&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf80216" /> </p>
 
-- 🔭 I’m currently working on **Mobile-chat Application**
+- 🔭 I’m currently learning **Machine Learning**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently mastering **Flutter**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 👯 I’m looking to collaborate on **App Development && Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yusuf80216?tab=repositories](https://github.com/Yusuf80216?tab=repositories)
 
