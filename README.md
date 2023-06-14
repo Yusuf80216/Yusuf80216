@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yusuf80216.yusuf80216&"  />
+  <img src="https://komarev.com/ghpvc/?username=yusuf80216&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
 ###
