@@ -4,16 +4,12 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yusuf-ansari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:yusuf80216@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="twitter.com/Yusuf80216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+<div id="badges" align="center">
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-ansari/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/yusuf80216)
+  [![Resume Badge](https://img.shields.io/badge/Resume-%E2%86%93-red?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1896IIQIndo5fkPS6jU7mC6D1rrsNEeis/view)
+
 </div>
 
 ###
