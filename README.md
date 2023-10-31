@@ -202,23 +202,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf80216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=yusuf80216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<h3 align="left">Connect with me :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yusuf-ansari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="twitter.com/Yusuf80216" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/yusuf80216?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
