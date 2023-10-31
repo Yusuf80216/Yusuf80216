@@ -85,12 +85,13 @@
 
 ###
 
-<h4 align="left">Automation :</h4>
+<h4 align="left">Automation & Testing:</h4>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -164,16 +165,6 @@
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-</div>
-
-###
-
-<h4 align="left">Testing :</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
