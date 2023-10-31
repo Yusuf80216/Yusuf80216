@@ -26,7 +26,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">Passionate AI/ML enthusiast pursuing a CSE degree, eager to kickstart a career in Artificial Intelligence. Seeking opportunities to apply theoretical knowledge and practical skills to innovative projects and develop cutting-edge solutions. Let's create AI together! 🚀<br><br><br>
+<p align="left">Passionate AI/ML enthusiast pursuing a CSE degree, eager to kickstart a career in Artificial Intelligence. Seeking opportunities to apply theoretical knowledge and practical skills to innovative projects and develop cutting-edge solutions. Let's create AI together! 🚀<br>
 - 🔭 I’m working as an AI Developer<br>
 - 📚 Currently advancing my Deep Learning knowledge!</p>
 
@@ -144,20 +144,6 @@
 
 ###
 
-<h4 align="left">Frontend Development :</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
 <h4 align="left">IDEs :</h4>
 
 ###
@@ -206,18 +192,6 @@
 
 ###
 
-<h4 align="left">Designing :</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -228,11 +202,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf80216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=yusuf80216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yusuf80216&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
