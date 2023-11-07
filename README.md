@@ -189,7 +189,7 @@
 
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=yusuf80216&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf80216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="110" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf80216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yusuf80216&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf80216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="110" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf80216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
