@@ -26,9 +26,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">Passionate AI/ML enthusiast pursuing a CSE degree, eager to kickstart a career in Artificial Intelligence. Seeking opportunities to apply theoretical knowledge and practical skills to innovative projects and develop cutting-edge solutions. Let's create AI together! 🚀<br>
-- 🔭 I’m working as an AI Developer<br>
-- 📚 Currently advancing my Deep Learning knowledge!</p>
+<p align="left">Highly motivated AI/ML enthusiast and aspiring Data Scientist, currently pursuing CSE degree, seeking an opportunity to kickstart a career in Artificial Intelligence and Machine Learning. Eager to apply theoretical knowledge, passion for AI, and practical skills to contribute to innovative AI projects and develop cutting-edge solutions🚀<br>
 
 ###
 
