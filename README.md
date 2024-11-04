@@ -127,6 +127,18 @@
 
 ###
 
+<h4 align="left">Web Development :</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
 <h4 align="left">App Development :</h4>
 
 ###
