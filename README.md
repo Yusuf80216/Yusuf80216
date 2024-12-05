@@ -2,7 +2,6 @@
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-ansari/)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/yusuf80216)
-  [![Resume Badge](https://img.shields.io/badge/Resume-%E2%86%93-red?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1HUDcIRO7_7PXqQcSpszdlQlh4pH3PM7D/view?usp=drive_link)
 
 </div>
 
